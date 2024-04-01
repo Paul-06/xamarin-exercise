@@ -1,0 +1,28 @@
+{
+    "producto": [
+        {
+            "id": 1,
+            "descripcion": "Mouse",
+            "precio": "30.00",
+            "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_767390-MLA51439543986_092022-O.webp"
+        },
+        {
+            "id": 2,
+            "descripcion": "Teclado",
+            "precio": "75.00",
+            "imagenUrl": "https://falabella.scene7.com/is/image/FalabellaPE/882096577_3?wid=800&hei=800&qlt=70"
+        },
+        {
+            "id": 3,
+            "descripcion": "Monitor",
+            "precio": "150.00",
+            "imagenUrl": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_117792437_1896321_1?wid=800&hei=800&qlt=70"
+        },
+        {
+            "id": 1,
+            "descripcion": "Memoria RAM",
+            "precio": "80.00",
+            "imagenUrl": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_120438787_2670864_1?wid=800&hei=800&qlt=70"
+        }
+    ]
+}
